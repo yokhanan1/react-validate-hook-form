@@ -1,4 +1,5 @@
 import './App.css';
+import Form from './Components/Form';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
         </h2>
 
         <div>
-
+          <Form />
         </div>
 
       </div>

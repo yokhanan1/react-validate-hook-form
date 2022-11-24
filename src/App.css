@@ -20,11 +20,17 @@
 
 
 /* Create.js style section */
-/* .create-form label{
+.form label{
   color: whitesmoke !important;
   font-family: 'nunito', sans-serif;
   font-size: 12px !important;
-} */
+}
+
+p {
+  font-size: 12px;
+  font-family: 'nunito', sans-serif;
+  color: red;
+}
 
 
 
